@@ -48,7 +48,7 @@ LINKS = {
                     {"label": "GitHub", "icon": "💻", "url": "https://github.com/RicardoMBorges"},
                     {"label": "Website", "icon": "🌐", "url": "https://laabioippn.wordpress.com/"},
                     {"label": "IPPN-Website", "icon": "🏛️", "url": "https://www.ippn.ufrj.br/ricardo-moreira-borges/"},
-                    {"label": "WhatsApp", "icon": "💬", "url": "https://wa.me/5521972125754"},
+                    #{"label": "WhatsApp", "icon": "💬", "url": "https://wa.me/5521972125754"},
                 ],
             },
             {
@@ -96,7 +96,7 @@ LINKS = {
                     {"label": "GitHub", "icon": "💻", "url": "https://github.com/RicardoMBorges"},
                     {"label": "Website", "icon": "🌐", "url": "https://laabioippn.wordpress.com/"},
                     {"label": "IPPN-Website", "icon": "🏛️", "url": "https://www.ippn.ufrj.br/ricardo-moreira-borges/"},
-                    {"label": "WhatsApp", "icon": "💬", "url": "https://wa.me/5521972125754"},
+                    #{"label": "WhatsApp", "icon": "💬", "url": "https://wa.me/5521972125754"},
                 ],
             },
             {
@@ -144,7 +144,7 @@ LINKS = {
                     {"label": "GitHub", "icon": "💻", "url": "https://github.com/RicardoMBorges"},
                     {"label": "Website", "icon": "🌐", "url": "https://laabioippn.wordpress.com/"},
                     {"label": "IPPN-Website", "icon": "🏛️", "url": "https://www.ippn.ufrj.br/ricardo-moreira-borges/"},
-                    {"label": "WhatsApp", "icon": "💬", "url": "https://wa.me/5521972125754"},
+                    #{"label": "WhatsApp", "icon": "💬", "url": "https://wa.me/5521972125754"},
                 ],
             },
             {
