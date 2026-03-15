@@ -72,7 +72,7 @@ LINKS = {
                     {"label": "Filter GNPS MGF", "icon": "🧬", "url": "https://filter-gnps-mgf.streamlit.app/"},
                     {"label": "MassQL Builder", "icon": "⚛️", "url": "https://massql-builder-from-csv.streamlit.app/"},
                     {"label": "MassQL Compendium Runner", "icon": "⚛️", "url": "https://massql-compendium-runner.streamlit.app/"},
-                    {"label": "MassQL Structure Viewer", "icon": "🧪", "url": "https://structure-viewer-massql.streamlit.app/"},
+                    {"label": "MassQL Structure Viewer", "icon": "⚛", "url": "https://structure-viewer-massql.streamlit.app/"},
                 ],
             },
             {
@@ -120,7 +120,7 @@ LINKS = {
                     {"label": "Filter GNPS MGF", "icon": "🧬", "url": "https://filter-gnps-mgf.streamlit.app/"},
                     {"label": "MassQL Builder", "icon": "⚛️", "url": "https://massql-builder-from-csv.streamlit.app/"},
                     {"label": "MassQL Compendium Runner", "icon": "⚛️", "url": "https://massql-compendium-runner.streamlit.app/"},
-                    {"label": "MassQL Structure Viewer", "icon": "🧪", "url": "https://structure-viewer-massql.streamlit.app/"},
+                    {"label": "MassQL Structure Viewer", "icon": "⚛", "url": "https://structure-viewer-massql.streamlit.app/"},
                 ],
             },
             {
@@ -168,7 +168,7 @@ LINKS = {
                     {"label": "Filter GNPS MGF", "icon": "🧬", "url": "https://filter-gnps-mgf.streamlit.app/"},
                     {"label": "MassQL Builder", "icon": "⚛️", "url": "https://massql-builder-from-csv.streamlit.app/"},
                     {"label": "MassQL Compendium Runner", "icon": "⚛️", "url": "https://massql-compendium-runner.streamlit.app/"},
-                    {"label": "MassQL Structure Viewer", "icon": "🧪", "url": "https://structure-viewer-massql.streamlit.app/"},
+                    {"label": "MassQL Structure Viewer", "icon": "⚛", "url": "https://structure-viewer-massql.streamlit.app/"},
                 ],
             },
             {
