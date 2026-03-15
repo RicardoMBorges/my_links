@@ -14,7 +14,7 @@ st.set_page_config(
 # =========================================================
 PROFILE = {
     "name": "Ricardo M. Borges",
-    "headline_pt": "Professor • Researcher • Natural Products • Metabolomics",
+    "headline_pt": "Professor • Pesquisador • Produtos Naturais • Metabolômica",
     "headline_en": "Professor • Researcher • Natural Products • Metabolomics",
     "headline_es": "Profesor • Investigador • Productos Naturales • Metabolómica",
     "about_pt": (
